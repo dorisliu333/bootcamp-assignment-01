@@ -23,4 +23,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+
 After modifying the existing code, now the code should be more readable and concise.
+link to deployed application:
+https://dorisliu333.github.io/bootcamp-assignment-01/
